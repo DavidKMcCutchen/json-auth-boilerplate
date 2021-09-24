@@ -19,5 +19,12 @@ module.exports = [
     "username": "johnathan_mitchell",
     "email": "johnathan@mitchell.com",
     "password": "secret"
+  },
+  {
+    "id": 4,
+    "name": "David McCutchen",
+    "username": "david_mccutchen",
+    "email": "dave@mccutchen.com",
+    "password": "Angular1@"
   }
 ];
